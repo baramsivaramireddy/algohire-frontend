@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import AuthContext from '@/utils/context'
 import { useCallback, useContext, useEffect, useMemo, useState } from "react";
 

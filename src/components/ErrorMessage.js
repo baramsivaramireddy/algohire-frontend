@@ -1,3 +1,5 @@
+
+"use client"
 const ErrorMessage = (props) =>{
     const { error, Field , type}  = props
 
